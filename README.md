@@ -6,25 +6,23 @@ I'm Bruno Eiki, certified in the Google Data Analytics Professional Certificate 
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-brunoeiki173@gmail.com-F70E0E?style=flat&labelColor=0D0D0D&logo=Gmail)](mailto:brunoeiki173@gmail.com) [![Resume](https://img.shields.io/badge/Resume-0EF71D?style=flat&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://drive.google.com/file/d/1B2YLRZuZR40EpM-MkoWcw_YHKgkYcpNi/view?usp=sharing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-eiki-b314a1140)
+[![Gmail](https://img.shields.io/badge/Gmail-brunoeiki173@gmail.com-F70E0E?style=flat&labelColor=0D0D0D&logo=Gmail)](mailto:brunoeiki173@gmail.com) [![Resume](https://img.shields.io/badge/Resume-0EF71D?style=flat&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://drive.google.com/file/d/1dx9f_d7dsgTRveV8aWxuZLJ4dd1C6h7j/view?usp=sharing) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-eiki-b314a1140)
 
 <br/>
 
 ## About Me
 - 🌱 Learning AWS and LLM (Large Language Models)
 - 🎓 Pursuing a Master's degree in **Computer Science** at the **Federal University of Pará**
-- ✨ Working at the intersection of math and technology to build good things.
-- 📫 How to reach me: send an e-mail or a message in any social media
 - 📝 Portfolio: [https://brunoeiki.dev](https://brunoeiki.dev)
 
+<br/>
 <br/>
 
 <p align="center">
   <img src="https://github.com/BrunoEiki/BrunoEiki/blob/main/tumblr_641d7611d9905a06b47729823b8daad2_50482c81_540.gif" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEiki&theme=2077&utcOffset=-4" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEiki&theme=2077&utcOffset=-4" width="600" />
 </p>
-
 
 <!--
 **BrunoEiki/BrunoEiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
