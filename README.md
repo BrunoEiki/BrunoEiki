@@ -13,7 +13,7 @@ I'm Bruno Eiki, certified in the Google Data Analytics Professional Certificate 
 ## About Me
 - 🌱 Learning AWS and LLM (Large Language Models)
 - 🎓 Pursuing a Master's degree in **Computer Science** at the **Federal University of Pará**
-- 📝 Portfolio: [https://brunoeiki.dev](https://brunoeiki.dev)
+<!-- - 📝 Portfolio: [https://brunoeiki.dev](https://brunoeiki.dev) -->
 
 <br/>
 <br/>
